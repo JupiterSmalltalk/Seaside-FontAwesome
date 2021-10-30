@@ -1,8 +1,8 @@
 ## Reason for this fork
 
-There are many awesome Smalltalk projects out there that have recently become Pharo-only projects. This is the case since these projects start using Traits and / or start storing their source in Tonal format. Not all Smalltalk implementations have these features so these once community projects, are no longer available for the greater community.
+There are many awesome Smalltalk projects out there that have recently become Pharo-only projects. This is because these projects start using Traits and / or start storing their source in Tonal format. Not all Smalltalk implementations have these features making these amazing projects no longer available for the greater community.
 
-This fork is simply a copy of the excellent work done by Torsten (http://astares.com) saved in FileTree format to support Pharo / GemStone / VisualWorks.
+This fork is simply a copy of the excellent work done by Torsten (http://astares.com) saved in FileTree format to support Squeak / Pharo / GemStone / VisualWorks / Dolphin.
 
 # Seaside-FontAwesome
 A small [Seaside](http://www.seaside.st) wrapper for the [FontAwesome](https://fontawesome.com) project
